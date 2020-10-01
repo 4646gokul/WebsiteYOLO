@@ -27,3 +27,4 @@ conda env create -f ./conda_env.yml
 conda activate detector
 ```
 
+An amazing tip
